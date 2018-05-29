@@ -7,12 +7,12 @@
 
 
 * Datasets files' format:
-	- Lama dataset: 
+	- Lama-dataset: 
 		* Each line contains 3 fields corresponding to the following tweet_id, annotation_label (Binary: YES/NO), and 			emotion_label.
 		* Each field is separated by comma and double quotes.
 		* For example, here is the header of the file: **"tweet_id","ann_label","label"**.
 		
-	- Lama-Distant-supervision:
+	- Lama-Distant-supervision-dataset:
 		* Each line contains 2 fields corresponding to the following tweet_id, and emotion_label.
 		* Each field is separated by comma and double quotes.
 		* For example, here is the header of the file: **"tweet_id","label"**.
