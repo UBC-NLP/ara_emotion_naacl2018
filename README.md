@@ -4,8 +4,7 @@
 * Authors: Hassan Alhuzali, Muhammad Abdul-Mageed & Lyle Ungar.
 
 * Email: muhammad.mageeed@ubc.ca
-	
-<br />
+
 
 * Datasets files' format:
 	- Lama dataset: 
