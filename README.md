@@ -5,6 +5,7 @@
 
 * Email: muhammad.mageeed@ubc.ca
 
+</br>
 
 # Datasets description
 ## Lama-dataset:
@@ -20,6 +21,7 @@
 * For example, here is the header of the file: **"tweet_id","label"**.
 * Filename: "Lama_dist_dataset.csv"
 
+</br>
 # License & co
 * Please cite the [paper](https://peopleswksh.github.io/pdf/PEOPLES04.pdf) if you use our data.
 * The dataset is only meant for **research purposes**.
