@@ -1,10 +1,9 @@
 # Arabic_Emotion_Datasets
-* Paper Title:
-	- Enabling Deep Learning of Emotion With First-Person Seed Expressions
-* Authors:
-	- Hassan Alhuzali, Muhammad Abdul-Mageed & Lyle Ungar.
-* Email:
-	- muhammad.mageeed@ubc.ca
+* Paper Title: Enabling Deep Learning of Emotion With First-Person Seed Expressions
+
+* Authors: Hassan Alhuzali, Muhammad Abdul-Mageed & Lyle Ungar.
+
+* Email:muhammad.mageeed@ubc.ca
 	
 * Datasets files' format:
 	- Lama dataset: 
