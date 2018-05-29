@@ -24,8 +24,8 @@
 </br>
 
 # License & co
-* Please cite the [paper](https://peopleswksh.github.io/pdf/PEOPLES04.pdf) if you use our data.
 * The dataset is only meant for **research purposes**.
+* Please cite the [paper](https://peopleswksh.github.io/pdf/PEOPLES04.pdf) if you use our data.
 
 ```
 @article{Alhuzali2018,
