@@ -6,7 +6,7 @@
 * Email: muhammad.mageeed@ubc.ca
 
 
-* Datasets files' format:
+* Datasets description:
 	- Lama-dataset: 
 		* Each line contains 3 fields corresponding to the following tweet_id, annotation_label (Binary: YES/NO), and 			emotion_label.
 		* Each field is separated by comma and double quotes.
