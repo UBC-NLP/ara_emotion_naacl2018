@@ -19,8 +19,8 @@
 
 
 * License & co
-	* Please cite our [paper](https://peopleswksh.github.io/pdf/PEOPLES04.pdf) if you use our data.
-	* The dataset is only meant for * research purposes *.
+	* Please cite our *[paper]*(https://peopleswksh.github.io/pdf/PEOPLES04.pdf) if you use our data.
+	* The dataset is only meant for *research purposes*.
 
 ```
 @article{Alhuzali2018,
