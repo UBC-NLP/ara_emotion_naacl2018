@@ -20,9 +20,9 @@
 </br>
 
 ## Lama-Dist (Distant Supervision):
-* Each line contains 2 fields corresponding to the following tweet_id, and emotion_label.
-* Each field is separated by comma and double quotes.
-* For example, here is the header of the file: **"tweet_id","label"**.
+* Each line contains 2 comma separated fields (CVS), with the header: **"tweet_id","emotion_category"**.
+* **"tweet_id":** The Twitter id of the tweet
+* **"emotion_category":** The category of emotion the tweet carries.
 * Filename: "Lama_dist_dataset.csv".
 
 </br>
@@ -36,7 +36,7 @@
   title = {{Enabling Deep Learning of Emotion With First-Person Seed Expressions}},
   author = {Alhuzali, Hassan and Abdul-Mageed, Muhammad and Ungar, Lyle},
   pages = {25--35},
-  url = {https://peopleswksh.github.io/pdf/PEOPLES04.pdf},
+  url = {http://aclweb.org/anthology/W18-1104},
   year = {2018}
 }
 ```
