@@ -27,7 +27,7 @@
 
 # License & co
 * The dataset is only meant for **research purposes**.
-* Please cite the [paper](http://aclweb.org/anthology/W18-1105) if you use our data.
+* Please cite the [paper](http://aclweb.org/anthology/W18-1104) if you use our data.
 
 ```
 @article{Alhuzali2018,
