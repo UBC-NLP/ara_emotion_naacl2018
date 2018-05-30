@@ -28,7 +28,7 @@
 </br>
 
 # License & co
-* The dataset is only meant for **research purposes**.
+* The dataset is released exclusively for **research purposes**. For other uses, permission must be acquired from the authors.
 * Please cite the [paper](http://aclweb.org/anthology/W18-1104) if you use our data.
 
 ```
