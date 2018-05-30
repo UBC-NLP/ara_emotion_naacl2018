@@ -1,4 +1,4 @@
-"tweet_id","ann_label","label"
+"tweet_id","emotion_relevance","emotion_category"
 "510935848457000000","YES","fear"
 "508802214434000000","YES","fear"
 "770985430599000000","YES","anger"
