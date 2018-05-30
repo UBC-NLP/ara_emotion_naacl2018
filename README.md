@@ -10,7 +10,7 @@
 # Datasets description
 ## Lama-dataset (Gold):
 	
-* Each line contains 3 comma separated fields (CVS), with the header: **"tweet_id","emotion_relevance","emotion_category"**.
+* Each line contains 3 comma separated fields (CSV), with the header: **"tweet_id","emotion_relevance","emotion_category"**.
 * **"tweet_id":** The Twitter id of the tweet
 * **"emotion_relevance:"** Whether the tweet carries emotion or not (relevant to the task or not; binary "YES"/"NO")
 * **"emotion_category":** The category of emotion the tweet carries.
@@ -20,7 +20,7 @@
 </br>
 
 ## Lama-Dist (Distant Supervision):
-* Each line contains 2 comma separated fields (CVS), with the header: **"tweet_id","emotion_category"**.
+* Each line contains 2 comma separated fields (CSV), with the header: **"tweet_id","emotion_category"**.
 * **"tweet_id":** The Twitter id of the tweet
 * **"emotion_category":** The category of emotion the tweet carries.
 * Filename: "Lama_dist_dataset.csv".
