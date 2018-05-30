@@ -8,16 +8,18 @@
 </br>
 
 # Datasets description
-## Lama-dataset:
+## Lama-dataset (Gold):
 	
-* Each line contains 3 fields corresponding to the following tweet_id, annotation_label (Binary: YES/NO), and emotion_label.
-* Each field is separated by comma and double quotes.
-* For example, here is the header of the file: **"tweet_id","ann_label","label"**.
+* Each line contains 3 comma separated fields (CVS), with the header: **"tweet_id","emotion_relevance","emotion_category"**.
+* **"tweet_id":** The Twitter id of the tweet
+* **"emotion_relevance:"** Whether the tweet carries emotion or not (relevant to the task or not; binary "YES"/"NO")
+* **"emotion_category":** The category of emotion the tweet carries.
+* Note: Tweets that have **"emotion_relevance"=NO** are not considered for the **"emotion_category"** classification task. As such, the label under **"emotion_category"** is the suspected label if the  **"emotion_relevance"** were to be equal to **YES**.
 * Filename: "Lama_dataset.csv".
 
 </br>
 
-## Lama-Distant-supervision-dataset:
+## Lama-Dist (Distant Supervision):
 * Each line contains 2 fields corresponding to the following tweet_id, and emotion_label.
 * Each field is separated by comma and double quotes.
 * For example, here is the header of the file: **"tweet_id","label"**.
