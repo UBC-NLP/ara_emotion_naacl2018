@@ -27,6 +27,12 @@
 
 </br>
 
+# Replication
+
+* We provide our data splits as described in the paper. 
+
+</br>
+
 # License & co
 * The dataset is released exclusively for **research purposes**. For other uses, permission must be acquired from the authors.
 * Please cite the [paper](http://aclweb.org/anthology/W18-1104) if you use our data.
