@@ -23,7 +23,7 @@
 * Each line contains 2 comma separated fields (CSV), with the header: **"tweet_id","emotion_category"**.
 * **"tweet_id":** The Twitter id of the tweet
 * **"emotion_category":** The category of emotion the tweet carries.
-* Filename: "Lama_dist_dataset.csv".
+* Filename: ["Lama_dist_dataset.csv"](https://github.com/UBC-NLP/ara_emotion_naacl2018/blob/master/datasets/Lama_dataset.csv).
 
 </br>
 
