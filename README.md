@@ -30,7 +30,7 @@
 # Replication
 
 * We provide our data splits as described in the paper. 
-* Link: Dataset-split(https://github.com/UBC-NLP/ara_emotion_naacl2018/tree/master/data_splits)
+* Link: [Dataset-split](https://github.com/UBC-NLP/ara_emotion_naacl2018/tree/master/data_splits)
 
 </br>
 
