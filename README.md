@@ -15,7 +15,7 @@
 * **"emotion_relevance:"** Whether the tweet carries emotion or not (relevant to the task or not; binary "YES"/"NO")
 * **"emotion_category":** The category of emotion the tweet carries.
 * Note: Tweets that have **"emotion_relevance"=NO** are not considered for the **"emotion_category"** classification task. As such, the label under **"emotion_category"** is the suspected label if the  **"emotion_relevance"** were to be equal to **YES**.
-* Filename: "Lama_dataset.csv".
+* Filename: ["Lama_dataset.csv"](https://github.com/UBC-NLP/ara_emotion_naacl2018/blob/master/datasets/Lama_dataset.csv).
 
 </br>
 
@@ -23,7 +23,7 @@
 * Each line contains 2 comma separated fields (CSV), with the header: **"tweet_id","emotion_category"**.
 * **"tweet_id":** The Twitter id of the tweet
 * **"emotion_category":** The category of emotion the tweet carries.
-* Filename: ["Lama_dist_dataset.csv"](https://github.com/UBC-NLP/ara_emotion_naacl2018/blob/master/datasets/Lama_dataset.csv).
+* Filename: ["Lama_dist_dataset.csv"](https://github.com/UBC-NLP/ara_emotion_naacl2018/blob/master/datasets/Lama_dist_dataset.csv).
 
 </br>
 
