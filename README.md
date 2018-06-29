@@ -3,7 +3,7 @@
 
 * Authors: Hassan Alhuzali, Muhammad Abdul-Mageed & Lyle Ungar.
 
-* Email: muhammad.mageeed@ubc.ca
+* Email: halhuzali@alumni.ubc.ca & muhammad.mageeed@ubc.ca
 
 </br>
 
